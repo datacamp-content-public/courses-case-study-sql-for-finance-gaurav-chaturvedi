@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Lesson 3.4 Compute Free Margin
 
 ```yaml
 type: VideoExercise
