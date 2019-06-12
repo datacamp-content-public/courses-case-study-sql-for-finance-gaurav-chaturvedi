@@ -44,7 +44,7 @@ This is an example exercise.
 
 ---
 
-## Lesson 3.4 Compute Free Margin
+## Free Margin
 
 ```yaml
 type: VideoExercise
